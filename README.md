@@ -1,37 +1,52 @@
-<div>
-<img src="https://user-images.githubusercontent.com/43914441/235364008-85441fba-065f-48c8-8e8c-2cd3487e5517.png"  width="20%" height="20%">
-&nbsp;
-&nbsp;
-<img src="https://user-images.githubusercontent.com/43914441/235364010-ee0f11c2-22de-480c-89ea-683ea9b329c8.png"  width="20%" height="20%">
-&nbsp;
-&nbsp;
-<img src="https://user-images.githubusercontent.com/43914441/235364014-9d693f89-a6cd-4341-a70a-a3f54babd35f.png"  width="20%" height="20%">
-&nbsp;
-&nbsp;
-<img src="https://user-images.githubusercontent.com/43914441/235364017-c4b21da0-2fad-4563-be0b-99e4898ff6c7.png"  width="20%" height="20%">
-&nbsp;
-&nbsp;
-</div>
-&nbsp;
-&nbsp;
-<div>
-<img src="https://user-images.githubusercontent.com/43914441/235364018-29d7f9b7-a3c9-46e3-acae-8f2859575b4e.png"  width="20%" height="20%">
-&nbsp;
-&nbsp;
-<img src="https://user-images.githubusercontent.com/43914441/235364020-cc4dc221-819e-4ea6-b72e-f9963e02ae1b.png"  width="20%" height="20%">
-&nbsp;
-&nbsp;
-<img src="https://user-images.githubusercontent.com/43914441/235364021-c25a90ba-13e4-4eaf-b2bf-baea3b573ed1.png"  width="20%" height="20%">
-&nbsp;
-&nbsp;
-<img src="https://user-images.githubusercontent.com/43914441/235364023-cc4e6bdf-5cbc-43c1-8965-fdf398ec19ec.png"  width="20%" height="20%">
-&nbsp;
-&nbsp;
-</div>
-<div>
-<img src="https://user-images.githubusercontent.com/43914441/235364024-2fd9d502-a1eb-40a2-a7cc-4df9344bc289.png"  width="20%" height="20%">
-&nbsp;
-&nbsp;
-  <img src="https://user-images.githubusercontent.com/43914441/236018282-03493302-20e7-478a-93f1-9bf9cbb5996f.png"  width="20%" height="20%">
-  </div>
+<div><h1>Recipe Finder App UI</h1></div>
+<h4>It is an application that offers food recommendations with the materials at hand.</h4>
+ <h4>Star ⭐ the repo if you like what you see 😉 </h4>
+ <div>
+ <h2>Libraries Used</h2>
+ <ul>
+   <li>Design UI -> Figma</li>
+   <li>State Management -> Bloc</li>
+   <li>Authentification -> RestApi</li>
+   <li>Design Pattern -> MVVM</li>
+   <li>Localization -> easy_localization</li>
+   <li>Network -> Dio</li>
+ </ul>  
+ </di>
+ 
 
+<div align='center'><h3>Splash Page - Login Page - Register Page - Forgot Page</h3></div>
+<div align='center'>
+
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/493a762c-d3bf-40bd-9d74-bc237076791c"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/c9561e95-9c3c-4a24-be43-4af7b9393ba9"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/98905c0c-f169-4774-94df-f459876b1ecc"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/4437f6ca-a219-4e80-9359-b98a14eceb81"> </img>
+</div>
+
+
+<div align='center'><h3>Search Page - Home Page - Menu Page </h3></div>
+<div align='center'>
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/60551279-f78d-4eed-84b0-dcc2ab2d6adf"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/06edba0e-3657-4096-a3c1-9ad7157a9502"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/80bd3cb9-78f6-4ba3-aefa-afb974f7d73f"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/de622bbd-5d57-4b8a-a2b4-8db94e2a46e1"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/1fc52ec9-a0cc-4357-b12f-038941882c7d"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/2d2e7fc7-d5b8-462f-b1fc-df31cd91214e"> </img>
+</div>
+
+
+<div align='center'><h3>Discover Page - Detail Page </h3></div>
+<div align='center'>
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/4e8db0d2-7b27-479c-8cf2-e077f4a8ea8d"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/0d554315-21cc-4013-bbec-86234877a503"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/76f9c061-ff35-4092-a1dc-57dc42245146"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/77e8f372-056e-49e5-86e3-aeee275d3a27"> </img>
+</div>
+
+
+<div align='center'><h3>Finder Page - Likes Page - Basket Page</h3></div>
+<div align='center'>
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/9180774c-84c8-49b2-9001-f1b914935e62"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/6a55aba5-8e34-4ad6-b13a-fe51188f05b7"> </img>&#160;&#160;&#160;
+<img height='380' width='205' src="https://github.com/evinngulcan/recipe_finder_app/assets/134440331/61886b88-67ac-4b31-814d-bc6153cf2a16"> </img>
+</div>
